@@ -1,7 +1,7 @@
 ﻿namespace Net_Core_API_7.ViewModels
 {
-    public class PetUpdateVm : PetCreatVm
+    public class PetUpdateVm : PetVm
     {
-        public int Id { get; set; }
+       
     }
 }
